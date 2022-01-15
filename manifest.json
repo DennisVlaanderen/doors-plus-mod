@@ -5,6 +5,9 @@
     "version": 3,
     "author": "Darth_Smuckleton & Tandurin"
   },
+  "aliases": {
+    "doors_plus:construction:custom_door": "file(entities/construction/custom_door)"
+  },
   "default_locale": "en",
   "dependencies": [
     "stonehearth_ace"
