@@ -1,0 +1,10 @@
+{
+  "entities": {
+    "construction" : {
+      "custom_door": {
+        "display_name": "Test Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      }
+    }
+  }
+}
