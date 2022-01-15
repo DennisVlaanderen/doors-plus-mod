@@ -1,0 +1,12 @@
+{
+  "info": {
+    "name": "Doors+",
+    "namespace": "doors_plus",
+    "version": 3,
+    "author": "Darth_Smuckleton & Tandurin"
+  },
+  "default_locale": "en",
+  "dependencies": [
+    "stonehearth_ace"
+  ]
+}
