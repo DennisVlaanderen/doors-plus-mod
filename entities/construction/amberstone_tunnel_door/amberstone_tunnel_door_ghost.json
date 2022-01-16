@@ -11,6 +11,21 @@
                "file(amberstone_tunnel_door.qb)"
             ]
          }
+      },
+      "mob": {
+         "align_to_grid": [
+            "x"
+         ],
+         "model_origin": {
+            "x": -0.2,
+            "y": 0,
+            "z": 0.05
+         },
+         "region_origin": {
+            "x": 0,
+            "y": 0,
+            "z": 0.5
+         }
       }
    },
    "entity_data": {
@@ -19,7 +34,7 @@
          "description": "i18n(doors_plus:entities.construction.amberstone_tunnel_door.description)",
          "icon": "file(amberstone_tunnel_door.png)",
          "category": "door",
-         "material_tags": ["clay", "portal", "crafted", "door", "stockpile_portal"]
+         "material_tags": ["stone", "portal", "crafted", "door", "stockpile_portal"]
       }
    }
 }

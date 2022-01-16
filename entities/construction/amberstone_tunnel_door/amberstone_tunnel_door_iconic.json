@@ -5,9 +5,24 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(amberstone_tunnel_door_iconic.qb)"
+               "file(amberstone_tunnel_door.qb)"
             ]
          }
+      },
+      "mob": {
+         "model_origin": {
+            "x": -0.55,
+            "y": 0,
+            "z": 0.1
+         },
+         "region_origin": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+         }
+      },
+      "render_info": {
+         "scale": 0.018
       }
    },
    "entity_data": {
