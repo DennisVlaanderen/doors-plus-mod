@@ -6,7 +6,8 @@
     "author": "Darth_Smuckleton & Tandurin"
   },
   "aliases": {
-    "doors_plus:construction:custom_door": "file(entities/construction/custom_door)"
+    "doors_plus:construction:custom_door": "file(entities/construction/custom_door)",
+    "doors_plus:construction:amberstone_tunnel_door": "file(entities/construction/amberstone_tunnel_door)"
   },
   "default_locale": "en",
   "dependencies": [

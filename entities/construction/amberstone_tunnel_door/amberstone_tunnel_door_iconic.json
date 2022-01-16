@@ -1,0 +1,44 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(amberstone_tunnel_door.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": {
+            "x": -0.55,
+            "y": 0,
+            "z": 0.1
+         },
+         "region_origin": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+         }
+      },
+      "render_info": {
+         "scale": 0.018
+      }
+   },
+   "entity_data": {
+      "stonehearth:net_worth": {
+         "value_in_gold": 5,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": false,
+            "sellable": true,
+            "shopkeeper_level": 1,
+            "shopkeeper_type": "caravan"
+         }
+      },
+      "stonehearth:catalog": {
+         "is_item": true,
+         "category": "door"
+      }
+   }
+}
