@@ -5,9 +5,12 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(custom_door_iconic.qb)"
+               "file(wooden_tunnel_door_fine.qb)"
             ]
          }
+      },
+      "render_info": {
+         "scale": 0.018
       }
    },
    "entity_data": {
