@@ -1,12 +1,8 @@
 {
   "entities": {
     "construction" : {
-      "custom_door": {
-        "display_name": "Test Door",
-        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
-      },
       "amberstone_tunnel_door": {
-        "display_name": "Test Door",
+        "display_name": "Large Amberstone Tunnel Door",
         "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
       }
     }

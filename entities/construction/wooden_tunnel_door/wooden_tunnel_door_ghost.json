@@ -1,0 +1,25 @@
+{
+   "type": "entity",
+   "mixins": [
+      "stonehearth:mixins:portals:double_door:ghost",
+      "stonehearth:mixins:placed_object"
+   ],
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(wooden_tunnel_door.qb)"
+            ]
+         }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(doors_plus:entities.construction.wooden_tunnel_door.display_name)",
+         "description": "i18n(doors_plus:entities.construction.wooden_tunnel_door.description)",
+         "icon": "file(wooden_tunnel_door.png)",
+         "category": "door",
+         "material_tags": ["stone", "portal", "crafted", "door", "stockpile_portal"]
+      }
+   }
+}

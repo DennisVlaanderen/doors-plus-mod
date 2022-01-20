@@ -1,15 +1,18 @@
 {
    "type": "entity",
    "mixins": [
-      "file(custom_door_ghost.json)",
-      "stonehearth:mixins:portals:single_door",
-      "stonehearth:mixins:basic_destructable_door"
+      "file(wooden_double_door_ghost.json)",
+      "stonehearth:mixins:portals:double_door",
+      "stonehearth:mixins:destructable_double_door"
    ],
    "components": {
       "stonehearth:entity_forms": {
-         "iconic_form": "file(custom_door_iconic.json)",
-         "ghost_form": "file(custom_door_ghost.json)",
+         "iconic_form": "file(wooden_double_door_iconic.json)",
+         "ghost_form": "file(wooden_double_door_ghost.json)",
          "hide_placement_ui": false
+      },
+      "render_info": {
+         "scale": 0.10
       }
    },
    "entity_data": {
