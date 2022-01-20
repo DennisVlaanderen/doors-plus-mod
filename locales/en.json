@@ -4,6 +4,62 @@
       "amberstone_tunnel_door": {
         "display_name": "Large Amberstone Tunnel Door",
         "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "blue_round_door": {
+        "display_name": "Blue Round Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "clay_tunnel_door": {
+        "display_name": "Large Clay Tunnel Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "green_round_door": {
+        "display_name": "Green Round Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "ornate_wooden_double_door": {
+        "display_name": "Ornate Large Wooden Double Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "ornate_wooden_tunnel_door": {
+        "display_name": "Ornate Large Wooden Tunnel Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "red_round_door": {
+        "display_name": "Red Round Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "stone_double_door": {
+        "display_name": "Large Stone Double Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "stone_tunnel_door": {
+        "display_name": "Large Stone Tunnel Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "wood_round_door": {
+        "display_name": "Wood Round Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "wooden_double_door": {
+        "display_name": "Large Wooden Double Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "wooden_double_door_fine": {
+        "display_name": "Fine Large Wooden Double Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "wooden_tunnel_door": {
+        "display_name": "Large Wooden Tunnel Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "wooden_tunnel_door_fine": {
+        "display_name": "Fine Large Wooden Tunnel Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
+      },
+      "yellow_round_door": {
+        "display_name": "Yellow Round Door",
+        "description": "No thank you! We don't want any more visitors, well-wishers or distant relations!"
       }
     }
   }
