@@ -6,8 +6,21 @@
     "author": "Darth_Smuckleton & Tandurin"
   },
   "aliases": {
-    "doors_plus:construction:custom_door": "file(entities/construction/custom_door)",
-    "doors_plus:construction:amberstone_tunnel_door": "file(entities/construction/amberstone_tunnel_door)"
+    "doors_plus:construction:amberstone_tunnel_door": "file(entities/construction/amberstone_tunnel_door)",
+    "doors_plus:construction:blue_round_door": "file(entities/construction/blue_round_door)",
+    "doors_plus:construction:clay_tunnel_door": "file(entities/construction/clay_tunnel_door)",
+    "doors_plus:construction:green_round_door": "file(entities/construction/green_round_door)",
+    "doors_plus:construction:ornate_wooden_double_door": "file(entities/construction/ornate_wooden_double_door)",
+    "doors_plus:construction:ornate_wooden_tunnel_door": "file(entities/construction/ornate_wooden_tunnel_door)",
+    "doors_plus:construction:red_round_door": "file(entities/construction/red_round_door)",
+    "doors_plus:construction:stone_double_door": "file(entities/construction/stone_double_door)",
+    "doors_plus:construction:stone_tunnel_door": "file(entities/construction/stone_tunnel_door)",
+    "doors_plus:construction:wood_round_door": "file(entities/construction/wood_round_door)",
+    "doors_plus:construction:wooden_double_door": "file(entities/construction/wooden_double_door)",
+    "doors_plus:construction:wooden_double_door_fine": "file(entities/construction/wooden_double_door_fine)",
+    "doors_plus:construction:wooden_tunnel_door": "file(entities/construction/wooden_tunnel_door)",
+    "doors_plus:construction:wooden_tunnel_door_fine": "file(entities/construction/wooden_tunnel_door_fine)",
+    "doors_plus:construction:yellow_round_door": "file(entities/construction/yellow_round_door)"
   },
   "default_locale": "en",
   "dependencies": [
