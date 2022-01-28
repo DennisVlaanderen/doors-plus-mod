@@ -6,3 +6,8 @@ At this point the mod is not ready yet for public testing, therefore installatio
 
 # Contributions
 All the models and ideas in this repository were made by Darth_Smuckleton on the [ACE Community Discord](https://discord.gg/b3wHG34). I take no credit for them whatsoever. All that I have done is add the required json files to register the items in the game and have them functional in gameplay scenario's.
+
+## To Do List
+* Create boilerplate for fine green round door.
+* Rig custom animations
+* Check in-game placement of all items

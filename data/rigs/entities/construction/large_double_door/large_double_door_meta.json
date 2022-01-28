@@ -1,0 +1,9 @@
+{
+	 "meta": {
+		"helperBone": ["ATTOVERCOG", 3.000000, 3.000000, 3.000000, -3.000000],
+		"helperBone": ["head", 3.000000, 3.000000, 3.000000, -3.000000],
+		"helperBone": ["root", 3.000000, 3.000000, 3.000000, -3.000000],
+		"hierarchy": ["leftDoor", "rightDoor", "frame"],
+		"hierarchy": ["ATTOVERCOG", "frame", "head", "root"],
+	},
+}
