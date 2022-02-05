@@ -9,6 +9,7 @@
     "doors_plus:construction:amberstone_tunnel_door": "file(entities/construction/amberstone_tunnel_door)",
     "doors_plus:construction:blue_round_door": "file(entities/construction/blue_round_door)",
     "doors_plus:construction:clay_tunnel_door": "file(entities/construction/clay_tunnel_door)",
+    "doors_plus:construction:fine_green_round_door": "file(entities/construction/fine_green_round_door)",
     "doors_plus:construction:green_round_door": "file(entities/construction/green_round_door)",
     "doors_plus:construction:ornate_wooden_double_door": "file(entities/construction/ornate_wooden_double_door)",
     "doors_plus:construction:ornate_wooden_tunnel_door": "file(entities/construction/ornate_wooden_tunnel_door)",
