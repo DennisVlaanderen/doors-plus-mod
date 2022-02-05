@@ -12,6 +12,7 @@ All the models and ideas in this repository were made by Darth_Smuckleton on the
 
 ## To Do List
 
+* Update to new uncompressed models
 * Rig custom animations
 * Check in-game placement of all items
   * Amberstone Tunnel Door
@@ -33,5 +34,8 @@ All the models and ideas in this repository were made by Darth_Smuckleton on the
 * Create localisations for all items
 * Create recipes for each item
 
-
+Comments on animationtables:
 "animation_table": "doors_plus:data:rigs:entities:construction:large_double_door"
+"animation_table": "doors_plus:data:rigs:entities:construction:round_door"
+
+Lines are untested
