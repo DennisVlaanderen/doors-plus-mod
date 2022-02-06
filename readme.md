@@ -34,7 +34,7 @@ All the models and ideas in this repository were made by Darth_Smuckleton on the
 * Create recipes for each item
 
 Comments on animationtables:
-"animation_table": "doors_plus:data:rigs:entities:construction:large_double_door"
-"animation_table": "doors_plus:data:rigs:entities:construction:round_door"
+`"animation_table":"doors_plus:data:rigs:entities:construction:large_double_door"`
+`"animation_table": "doors_plus:data:rigs:entities:construction:round_door"`
 
 Lines are untested
