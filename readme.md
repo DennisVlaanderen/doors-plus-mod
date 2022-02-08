@@ -12,7 +12,6 @@ All the models and ideas in this repository were made by Darth_Smuckleton on the
 
 ## To Do List
 
-* Update to new uncompressed models
 * Rig custom animations
 * Check in-game placement of all items
   * Amberstone Tunnel Door
