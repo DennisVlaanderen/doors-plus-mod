@@ -2,17 +2,17 @@
    "type": "entity",
    "mixins": [
       "file(amberstone_tunnel_door_ghost.json)",
+      "doors_plus:mixins:portals:double_door_big",
       "stonehearth:mixins:destructable_double_door"
    ],
    "components": {
       "stonehearth:entity_forms": {
          "iconic_form": "file(amberstone_tunnel_door_iconic.json)",
          "ghost_form": "file(amberstone_tunnel_door_ghost.json)",
-         "hide_placement_ui": false
+         "placeable_on_ground": true
       },
       "render_info": {
-         "scale": 0.12,
-         "animation_table": "doors_plus:data:rigs:entities:construction:large_double_door"
+         "scale": 0.12
       },
       "region_collision_shape": {
          "region": [
