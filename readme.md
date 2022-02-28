@@ -12,29 +12,54 @@ All the models and ideas in this repository were made by Darth_Smuckleton on the
 
 ## To Do List
 
-* Rig custom animations
 * Check in-game placement of all items
-  * Amberstone Tunnel Door
-  * Blue Round Door
-  * Clay Tunnel Door
-  * Fine Green Round Door
-  * Green Ground Door
-  * Ornate Wooden Double Door
-  * Ornate Wooden Tunnel Door
-  * Red Round Door
-  * Stone Double Door
-  * Stone Tunnel Door
-  * Wood Round Door
-  * Wooden Double Door
-  * Wooden Double Door Fine
-  * Wooden Tunnel Door
-  * Wooden Tunnel Door Fine
-  * Yellow Round Door
+  * [ ] Amberstone Tunnel Door
+  * [ ] Blue Round Door
+  * [ ] Clay Tunnel Door
+  * [ ] Fine Green Round Door
+  * [ ] Green Ground Door
+  * [ ] Ornate Wooden Double Door
+  * [ ] Ornate Wooden Tunnel Door
+  * [ ] Red Round Door
+  * [ ] Stone Double Door
+  * [ ] Stone Tunnel Door
+  * [ ] Wood Round Door
+  * [ ] Wooden Double Door
+  * [ ] Wooden Double Door Fine
+  * [ ] Wooden Tunnel Door
+  * [ ] Wooden Tunnel Door Fine
+  * [ ] Yellow Round Door
 * Create localisations for all items
+  * [ ] Amberstone Tunnel Door
+  * [ ] Blue Round Door
+  * [ ] Clay Tunnel Door
+  * [ ] Fine Green Round Door
+  * [ ] Green Ground Door
+  * [ ] Ornate Wooden Double Door
+  * [ ] Ornate Wooden Tunnel Door
+  * [ ] Red Round Door
+  * [ ] Stone Double Door
+  * [ ] Stone Tunnel Door
+  * [ ] Wood Round Door
+  * [ ] Wooden Double Door
+  * [ ] Wooden Double Door Fine
+  * [ ] Wooden Tunnel Door
+  * [ ] Wooden Tunnel Door Fine
+  * [ ] Yellow Round Door
 * Create recipes for each item
-
-Comments on animationtables:
-`"animation_table":"doors_plus:data:rigs:entities:construction:large_double_door"`
-`"animation_table": "doors_plus:data:rigs:entities:construction:round_door"`
-
-Lines are untested
+  * [ ] Amberstone Tunnel Door
+  * [ ] Blue Round Door
+  * [ ] Clay Tunnel Door
+  * [ ] Fine Green Round Door
+  * [ ] Green Ground Door
+  * [ ] Ornate Wooden Double Door
+  * [ ] Ornate Wooden Tunnel Door
+  * [ ] Red Round Door
+  * [ ] Stone Double Door
+  * [ ] Stone Tunnel Door
+  * [ ] Wood Round Door
+  * [ ] Wooden Double Door
+  * [ ] Wooden Double Door Fine
+  * [ ] Wooden Tunnel Door
+  * [ ] Wooden Tunnel Door Fine
+  * [ ] Yellow Round Door

@@ -23,7 +23,9 @@
     "construction:wooden_tunnel_door_fine": "file(entities/construction/wooden_tunnel_door_fine)",
     "construction:yellow_round_door": "file(entities/construction/yellow_round_door)",
     "mixins:portals:double_door_big": "file(mixins/double_door_big/double_door_big.json)",
-    "mixins:portals:double_door_big_ghost": "file(mixins/double_door_big/double_door_big_ghost.json)"
+    "mixins:portals:double_door_big_ghost": "file(mixins/double_door_big/double_door_big_ghost.json)",
+    "mixins:portals:round_door": "file(mixins/round_door/round_door.json)",
+    "mixins:portals:round_door_ghost": "file(mixins/round_door/round_door_ghost.json)"
   },
   "default_locale": "en",
   "dependencies": [
