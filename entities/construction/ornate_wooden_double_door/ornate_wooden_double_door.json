@@ -2,7 +2,7 @@
    "type": "entity",
    "mixins": [
       "file(ornate_wooden_double_door_ghost.json)",
-      "stonehearth:mixins:portals:double_door",
+      "doors_plus:mixins:portals:double_door_big",
       "stonehearth:mixins:destructable_double_door"
    ],
    "components": {
