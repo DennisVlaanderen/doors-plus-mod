@@ -1,7 +1,7 @@
 {
    "type": "entity",
    "mixins": [
-      "file(green_round_door_ghost.json)",
+      "file(red_round_door_ghost.json)",
       "doors_plus:mixins:portals:round_door"
    ],
    "components": {
