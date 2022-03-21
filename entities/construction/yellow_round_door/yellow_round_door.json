@@ -2,8 +2,7 @@
    "type": "entity",
    "mixins": [
       "file(yellow_round_door_ghost.json)",
-      "stonehearth:mixins:portals:double_door",
-      "stonehearth:mixins:destructable_double_door"
+      "doors_plus:mixins:portals:round_door"
    ],
    "components": {
       "stonehearth:entity_forms": {
@@ -12,7 +11,7 @@
          "hide_placement_ui": false
       },
       "render_info": {
-         "scale": 0.10
+         "scale": 0.099
       }
    },
    "entity_data": {

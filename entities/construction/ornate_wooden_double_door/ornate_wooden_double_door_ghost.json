@@ -1,7 +1,7 @@
 {
    "type": "entity",
    "mixins": [
-      "stonehearth:mixins:portals:double_door:ghost",
+      "doors_plus:mixins:portals:double_door_big_ghost",
       "stonehearth:mixins:placed_object"
    ],
    "components": {
@@ -19,7 +19,7 @@
          "description": "i18n(doors_plus:entities.construction.ornate_wooden_double_door.description)",
          "icon": "file(ornate_wooden_double_door.png)",
          "category": "door",
-         "material_tags": ["stone", "portal", "crafted", "door", "stockpile_portal"]
+         "material_tags": ["wood", "portal", "crafted", "door", "stockpile_portal"]
       }
    }
 }

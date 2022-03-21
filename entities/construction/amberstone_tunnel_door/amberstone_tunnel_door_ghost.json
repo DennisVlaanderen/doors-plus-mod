@@ -1,7 +1,7 @@
 {
    "type": "entity",
    "mixins": [
-      "stonehearth:mixins:portals:double_door:ghost",
+      "doors_plus:mixins:portals:double_door_big_ghost",
       "stonehearth:mixins:placed_object"
    ],
    "components": {
@@ -10,21 +10,6 @@
             "models": [
                "file(amberstone_tunnel_door.qb)"
             ]
-         }
-      },
-      "mob": {
-         "align_to_grid": [
-            "x"
-         ],
-         "model_origin": {
-            "x": -0.2,
-            "y": 0,
-            "z": 0.05
-         },
-         "region_origin": {
-            "x": 0,
-            "y": 0,
-            "z": 0.5
          }
       }
    },
