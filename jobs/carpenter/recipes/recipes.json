@@ -1,0 +1,13 @@
+{
+  "craftable_recipes" : {
+    "doors_plus" : {
+      "ordinal": 100,
+      "name": "i18n(doors_plus:jobs.carpenter.recipes.doors_plus)",
+      "recipes" : {
+        "green_round_door" : {
+          "recipe" : "file(green_round_door.json)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "recipe",
+  "effort": 30,
+  "work_units": 3,
+  "recipe_name": "doors_plus:construction.green_round_door.display_name",
+  "description": "doors_plus:construction.green_round_door.description",
+  "portrait": "/stonehearth/entities/construction/wooden_door/wooden_door.png",
+  "level_requirement": 3,
+  "workshop": "stonehearth:carpenter:toolbench",
+  "ingredients": [
+    {
+      "material": "wood resource",
+      "count": 3
+    } 
+  ],
+  "produces": [
+    {
+      "item": "doors_plus:construction.green_round_door"
+    }
+  ]
+}

@@ -27,6 +27,9 @@
     "mixins:portals:round_door": "file(mixins/round_door/round_door.json)",
     "mixins:portals:round_door_ghost": "file(mixins/round_door/round_door_ghost.json)"
   },
+  "mixintos": {
+    "stonehearth/jobs/carpenter/recipes/recipes.json": "file(jobs/carpenter/recipes/recipes.json)"
+  },
   "default_locale": "en",
   "dependencies": [
     "stonehearth_ace"
